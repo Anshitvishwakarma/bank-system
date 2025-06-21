@@ -72,9 +72,7 @@ int main() {
        break;
        default:
        printf("\ninvalid choice");
-   
-   
-        return 0;
+      return 0;
    }
    }
    }
