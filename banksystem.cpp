@@ -71,7 +71,7 @@ int main() {
        printf("bank time:10 AM TO 5PM");
        break;
        default:
-       printf("\ninvalid choice");
+       printf("\n invalid choice");
       return 0;
    }
    }
